@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuYWokBIkBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\Desktop\\As8IFP\\Assignment8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
